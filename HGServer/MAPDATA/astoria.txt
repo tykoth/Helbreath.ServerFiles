@@ -60,6 +60,8 @@ spot-mob-generator	= 14	1	95	29	222	89	32	5
 spot-mob-generator	= 15	1	95	29	222	89	31	1
 spot-mob-generator	= 16	1	95	29	222	89	52	1
 
+(ESG)
+spot-mob-generator	= 17	1	168	207	168	207	40	1
 
 
 
