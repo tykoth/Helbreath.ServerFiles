@@ -56,6 +56,10 @@ teleport-loc     =      139     206   middled1n            33     36    4
 teleport-loc     =      139     205   middled1n            33     36    4
 teleport-loc     =      140     205   middled1n            33     36    4
 
+teleport-loc     =      95     149     elvbrk11            28     43    1
+teleport-loc     =      96     149     elvbrk11            28     43    1
+teleport-loc     =      96     148     elvbrk11            28     43    1
+teleport-loc     =      97     148     elvbrk11            28     43    1
 
 //-WayPoint-Set---------Num-----X-----Y----;
 waypoint          =     1      44     43
