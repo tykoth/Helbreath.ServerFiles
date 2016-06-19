@@ -1,7 +1,7 @@
-[MAP-INFO]							
+[MAP-INFO]
 
-map-location	=	middleland					
-initial-point	=	1	192	228			
+map-location	=	middleland
+initial-point	=	1	192	228
 level-limit	=	20
 pk-mode = 0
 
@@ -62,7 +62,7 @@ teleport-loc	=	200	234	middled1x	70	108	1
 
 teleport-loc	=	381	284	toh1	145	31	1
 teleport-loc	=	382	284	toh1	145	31	1
-teleport-loc	=	383	284	toh1	145	31	1		
+teleport-loc	=	383	284	toh1	145	31	1
 
 teleport-loc     =     452    281     icebound	          264     260   8
 teleport-loc     =     453    281     icebound	          264     260   8
@@ -98,13 +98,15 @@ waypoint          =     15      140   470
 waypoint          =     16      215   475
 waypoint          =     17      310   455
 waypoint          =     18      400   455
-waypoint          =     19      450   525			
+waypoint          =     19      450   525
 
-maximum-object	= 900							
+maximum-object	= 600
+random-mob-generator	= 1  22
 
-//-----------------------Num-Type-RECT---------------Mob-MobNum	
-//Stock / 3.51-HBChina	
-// Skeleton 
+//-----------------------Num-Type-RECT---------------Mob-MobNum
+//Stock / 3.51-HBChina
+
+// Skeleton
 spot-mob-generator	= 1 1 	120 	104 	173 	151    11  	15
 spot-mob-generator	= 2 1	144 	372 	209 	399    11  	15
 
@@ -128,32 +130,24 @@ spot-mob-generator	= 12 1	378 	396 	425 	439    	14  	18
 spot-mob-generator	= 13  1	333 	35 	371 	67      17  	16
 spot-mob-generator	= 14  1  390 	412 	425 	451    	17	16
 
-// Giant-Ant								
+// Giant-Ant
 spot-mob-generator	= 15 1	284	216	300	228	16  	20
 spot-mob-generator	= 16 1	181	266	199	274	16	20
 spot-mob-generator	= 17 1	80	285	93	291	16	20
 
-// ogre Stock								
+// ogre Stock
 spot-mob-generator	= 18 1	53	380	101	409	29	23
 spot-mob-generator	= 19 1	34	69	100	83	29	23
 
 // Stalker
 spot-mob-generator	= 20 1	107	202	418	304	48	35
 
-// WereWolf 
-spot-mob-generator	= 21 1	320	420	370	470	33	23 
-spot-mob-generator	= 22 1	360	100	410	150	33	23 
-
-//Ettins Middle Iland
-spot-mob-generator      = 23 1	166     204     216     254     59      6
-spot-mob-generator      = 24 1  224     225	234     240     59      3
-spot-mob-generator      = 25 1  150     215     170     235     59      3
+// WereWolf
+spot-mob-generator	= 21 1	320	420	370	470	33	23
+spot-mob-generator	= 22 1	360	100	410	150	33	23
 
 //Stalk 2nd pit
 spot-mob-generator	= 26 1	25	250	40	260	48	5
-
-//Hellclaw Biger Range Area
-spot-mob-generator	= 27 1	450	125	470	390	49	2
 
 //strategic-point-Num-Side-Value--X----Y
 strategic-point = 1   0    2     176  224
@@ -184,4 +178,4 @@ energy-sphere-goal-point     = 1 1 237 182 179 284
 
 
 
-[END-MAP-INFO]									
+[END-MAP-INFO]
