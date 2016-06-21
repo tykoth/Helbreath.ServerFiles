@@ -7,12 +7,15 @@
 *drop:high                   *
 *ek x1                       *
 ******************************
-*Command's                   *
+*      Command's             *
 */showgrid                   *
 */showframe                  *
 */bigitems                   *
 */who                        *
 */rep(+ -)[nick]             *
+*/timestamp                  *
+*/ekscreenshot               *
+*/manufill                   *
 ******************************
-helbreathpoland.com 
+helbreathpoland.com
 2016
