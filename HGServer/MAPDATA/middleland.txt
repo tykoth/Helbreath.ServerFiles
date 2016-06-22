@@ -151,7 +151,7 @@ spot-mob-generator	= 26 1	25	250	40	260	48	5
 
 //Troll Elv/Ares
 spot-mob-generator  = 27 1  419 39  437 50  28  15
-spot-mob-generator  = 28 1  71  51  99  84  28  15
+spot-mob-generator  = 28 1  444 403 463 419  28  15
 
 //strategic-point-Num-Side-Value--X----Y
 strategic-point = 1   0    2     176  224
