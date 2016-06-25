@@ -70,12 +70,6 @@ teleport-loc     =     452    282     icebound	          264     260   8
 teleport-loc     =     453    282     icebound	          264     260   8
 
 //-No-Attack-Area----------Num-----RECT-------------
-no-attack-area           = 1       346 499 355 503
-no-attack-area           = 2       99 20 107 25
-no-attack-area           = 3       309 20 317 25
-no-attack-area           = 4       148 499 156 503
-/no-attack-area           = 5       22 165 25 175
-/no-attack-area           = 6       23 296 32 301
 
 //-WayPoint-Set---------Num-----X-----Y----;
 waypoint          =     0       50    140

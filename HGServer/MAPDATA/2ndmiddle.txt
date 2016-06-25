@@ -60,8 +60,7 @@ waypoint          =     4      125   125
 
 
 //-No-Attack-Area----------Num-----RECT-------------
-no-attack-area           = 1       115  18 135  25
-no-attack-area           = 2       130 224 150 233
+
 
 
 maximum-object		= 400
