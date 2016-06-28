@@ -37,7 +37,7 @@ maximum-object		= 700
 
 //-----------------------Num-Type-RECT------------------Mob-MobNum
 // Tigerworms
-spot-mob-generator	= 1    1    28   23  81  59   50	4
+spot-mob-generator	= 1    1    28   23  81  59   50	1
 // IceGolem 
 spot-mob-generator	= 2    1    180 218 225 259	65	24
 //  Beholder
@@ -45,7 +45,7 @@ spot-mob-generator	= 3    1    103 220 163 276	53	6
 spot-mob-generator	= 4   1     45 202  83 233	53	5
 
 // HC
-spot-mob-generator	= 5   1    178  26 232  79	49	15
+spot-mob-generator	= 5   1    178  26 232  79	49	1
 
 //Frosts
 spot-mob-generator	= 6  1    51  85 105 136	63	24

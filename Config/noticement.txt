@@ -1,21 +1,21 @@
-******************************
-*Welcome to Helbreath Poland.*
-******************************
-*     Server Info:           *
-*180 lvl                     *
-*200 stats                   *
-*drop:high                   *
-*ek x1                       *
-******************************
-*      Command's             *
-*/showgrid                   *
-*/showframe                  *
-*/bigitems                   *
-*/who                        *
-*/rep(+ -)[nick]             *
-*/timestamp                  *
-*/ekscreenshot               *
-*/manufill                   *
+****************************
+ Welcome to Helbreath Poland
+****************************
+     Server Info:           
+180 lvl                     
+200 stats                   
+drop:high                   
+ek x1                       
+****************************
+      Command's             
+/showgrid                   
+/showframe                  
+/bigitems                   
+/who                        
+/rep(+ -)[nick]             
+/timestamp                  
+/ekscreenshot               
+/manufill                   
 ******************************
 helbreathpoland.com
 2016
